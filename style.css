@@ -1,5 +1,4 @@
-body {
-  background-color: lightblue;
+background-color: lightblue;
 nav{
   list-style-type: none;
   background-color: #9DC3C2;
@@ -23,5 +22,4 @@ li:hover {
 a{
   text-decoration:none;
   color: #283D3B;
-}
 }
