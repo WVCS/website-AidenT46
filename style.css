@@ -1,12 +1,4 @@
 
-   <nav>
-  <li><a href = "index.html"> HOME </a> </li>
-  <li><a href="Dataset.html"> Dataset App </a> </li>
-  <li><a href= "PokemonQuiz.html"> Pokemon Quiz App </a> </li>
-       <li><a href = "Multiscreen.html"> Multiscreen App </a> </li>
-</nav>
-  <br>
-  <br>
 body {background-color: lightblue;}
 nav{
   list-style-type: none;
